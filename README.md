@@ -1,4 +1,4 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=neysidev)](https://github.com/ryo-ma/github-profile-trophy)
+![trophy](https://github-profile-trophy.vercel.app/?username=neysidev&rank=SECRET,SSS,SS,S,AAA,AA,A,B&margin-w=15&margin-h=15)
 
 ### .init
 Hi, I'm Mehdi. 17 y/o developer, designer, and teacher.<br />
