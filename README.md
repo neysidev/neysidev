@@ -1,3 +1,5 @@
+[![trophy](https://github-profile-trophy.vercel.app/?username=neysidev)](https://github.com/ryo-ma/github-profile-trophy)
+
 ### .init
 Hi, I'm Mehdi. 17 y/o developer, designer, and teacher.<br />
 In my free time, I talk with friends on discord, and research random topics!
